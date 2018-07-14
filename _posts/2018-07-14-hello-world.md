@@ -2,6 +2,8 @@
 layout: post
 title: "Hello, world!"
 date: 2018-07-14 
+category: artworks
+tags: github jekyll test
 ---
 
 # Genesis 
