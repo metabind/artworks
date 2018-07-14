@@ -2,6 +2,7 @@
 layout: post
 title: "Hello, world!"
 date: 2018-07-14 
+tags: [github, jekyll, test]
 ---
 
 # Genesis 
